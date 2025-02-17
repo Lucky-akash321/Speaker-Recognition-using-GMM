@@ -1,5 +1,7 @@
 # Speaker Recognition using Gaussian Mixture Models (GMM)
 
+![](https://github.com/Lucky-akash321/Speaker-Recognition-using-GMM/blob/main/gmm1.png)
+
 ## Overview
 This project focuses on **speaker recognition** using **Gaussian Mixture Models (GMM)**, a probabilistic model commonly used in speech processing for modeling the distribution of feature vectors extracted from audio signals. The goal is to build a system that can identify and verify speakers based on their unique voice characteristics.
 
