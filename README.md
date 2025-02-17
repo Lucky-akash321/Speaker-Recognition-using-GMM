@@ -13,6 +13,8 @@ This project focuses on **speaker recognition** using **Gaussian Mixture Models 
 
 ## Methodology
 
+![](https://github.com/Lucky-akash321/Speaker-Recognition-using-GMM/blob/main/gmm2.png)
+
 ### 1. **Data Collection & Preprocessing**
 - **Dataset**: Collected or used an existing dataset of recorded speech samples from multiple speakers.
 - **Preprocessing**:
